@@ -3,9 +3,10 @@
 
 ### Clone
 
-git clone https://github.com/marcus-sds/ssl_generator
+- git clone
 
-cd ssl_generator
+      git clone https://github.com/marcus-sds/ssl_generator
+      cd ssl_generator
 
 ### Domain modification
 
